@@ -1,5 +1,5 @@
 // components/SeasonHeader.tsx
-import React from 'react';
+import React from "react";
 
 interface SeasonHeaderProps {
   sitcom: string;
@@ -7,9 +7,13 @@ interface SeasonHeaderProps {
   coverUrl: string;
 }
 
-const SeasonHeader: React.FC<SeasonHeaderProps> = ({ sitcom, seasonNumber, coverUrl }) => {
+const SeasonHeader: React.FC<SeasonHeaderProps> = ({
+  sitcom,
+  seasonNumber,
+  coverUrl,
+}) => {
   return (
-    <div>
+    <div className="flex flex-col items-center justify-center">
       <h1 className="text-3xl font-bold mb-4">
         {sitcom} - Season {seasonNumber}
       </h1>

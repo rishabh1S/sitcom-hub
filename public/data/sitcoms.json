@@ -3614,5 +3614,420 @@
         ]
       }
     ]
+  },
+  "Modern Family": {
+    "name": "Modern Family",
+    "cover": "https://wallpapers.com/images/high/modern-family-dvd-poster-cover-qlhbavon5k0kmbhn.webp",
+    "imdbID": "tt1442437",
+    "seasons": [
+      {
+        "number": 1,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/d/d0/ModernFamilyS1DVD.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Pilot"
+          },
+          {
+            "number": 2,
+            "title": "The Bicycle Thief"
+          },
+          {
+            "number": 3,
+            "title": "Come Fly with Me"
+          },
+          {
+            "number": 4,
+            "title": "The Incident"
+          },
+          {
+            "number": 5,
+            "title": "Coal Digger"
+          },
+          {
+            "number": 6,
+            "title": "Run for Your Wife"
+          },
+          {
+            "number": 7,
+            "title": "En Garde"
+          },
+          {
+            "number": 8,
+            "title": "Great Expectations"
+          },
+          {
+            "number": 9,
+            "title": "Fizbo"
+          },
+          {
+            "number": 10,
+            "title": "Undeck the Halls"
+          },
+          {
+            "number": 11,
+            "title": "Up All Night"
+          },
+          {
+            "number": 12,
+            "title": "Not in My House"
+          },
+          {
+            "number": 13,
+            "title": "Fifteen Percent"
+          },
+          {
+            "number": 14,
+            "title": "Moon Landing"
+          },
+          {
+            "number": 15,
+            "title": "My Funky Valentine"
+          },
+          {
+            "number": 16,
+            "title": "Fears"
+          },
+          {
+            "number": 17,
+            "title": "Truth Be Told"
+          },
+          {
+            "number": 18,
+            "title": "Starry Night"
+          },
+          {
+            "number": 19,
+            "title": "Game Changer"
+          },
+          {
+            "number": 20,
+            "title": "Benched"
+          },
+          {
+            "number": 21,
+            "title": "Travels with Scout"
+          },
+          {
+            "number": 22,
+            "title": "Airport 2010"
+          },
+          {
+            "number": 23,
+            "title": "Hawaii"
+          },
+          {
+            "number": 24,
+            "title": "Family Portrait"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/0/09/Modern_Family_Season_Two_DVD_Cover.png",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "The Old Wagon"
+          },
+          {
+            "number": 2,
+            "title": "The Kiss"
+          },
+          {
+            "number": 3,
+            "title": "Earthquake"
+          },
+          {
+            "number": 4,
+            "title": "Strangers on a Treadmill"
+          },
+          {
+            "number": 5,
+            "title": "Unplugged"
+          },
+          {
+            "number": 6,
+            "title": "Halloween"
+          },
+          {
+            "number": 7,
+            "title": "Chirp"
+          },
+          {
+            "number": 8,
+            "title": "Manny Get Your Gun"
+          },
+          {
+            "number": 9,
+            "title": "Mother Tucker"
+          },
+          {
+            "number": 10,
+            "title": "Dance Dance Revelation"
+          },
+          {
+            "number": 11,
+            "title": "Slow Down Your Neighbors"
+          },
+          {
+            "number": 12,
+            "title": "Our Children, Ourselves"
+          },
+          {
+            "number": 13,
+            "title": "Caught in the Act"
+          },
+          {
+            "number": 14,
+            "title": "Bixby's Back"
+          },
+          {
+            "number": 15,
+            "title": "Princess Party"
+          },
+          {
+            "number": 16,
+            "title": "Regrets Only"
+          },
+          {
+            "number": 17,
+            "title": "Two Monkeys and a Panda"
+          },
+          {
+            "number": 18,
+            "title": "Boys' Night"
+          },
+          {
+            "number": 19,
+            "title": "The Musical Man"
+          },
+          {
+            "number": 20,
+            "title": "Someone to Watch Over Lily"
+          },
+          {
+            "number": 21,
+            "title": "Mother's Day"
+          },
+          {
+            "number": 22,
+            "title": "Good Cop Bad Dog"
+          },
+          {
+            "number": 23,
+            "title": "See You Next Fall"
+          },
+          {
+            "number": 24,
+            "title": "The One That Got Away"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/9/9f/Modern_Family_Season_3.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Dude Ranch"
+          },
+          {
+            "number": 2,
+            "title": "When Good Kids Go Bad"
+          },
+          {
+            "number": 3,
+            "title": "Phil on Wire"
+          },
+          {
+            "number": 4,
+            "title": "Door to Door"
+          },
+          {
+            "number": 5,
+            "title": "Hit and Run"
+          },
+          {
+            "number": 6,
+            "title": "Go Bullfrogs!"
+          },
+          {
+            "number": 7,
+            "title": "Treehouse"
+          },
+          {
+            "number": 8,
+            "title": "After the Fire"
+          },
+          {
+            "number": 9,
+            "title": "Punkin Chunkin"
+          },
+          {
+            "number": 10,
+            "title": "Express Christmas"
+          },
+          {
+            "number": 11,
+            "title": "Lifetime Supply"
+          },
+          {
+            "number": 12,
+            "title": "Egg Drop"
+          },
+          {
+            "number": 13,
+            "title": "Little Bo Bleep"
+          },
+          {
+            "number": 14,
+            "title": "Me? Jealous?"
+          },
+          {
+            "number": 15,
+            "title": "Aunt Mommy"
+          },
+          {
+            "number": 16,
+            "title": "Virgin Territory"
+          },
+          {
+            "number": 17,
+            "title": "Leap Day"
+          },
+          {
+            "number": 18,
+            "title": "Send Out the Clowns"
+          },
+          {
+            "number": 19,
+            "title": "Election Day"
+          },
+          {
+            "number": 20,
+            "title": "The Last Walt"
+          },
+          {
+            "number": 21,
+            "title": "Planes, Trains and Cars"
+          },
+          {
+            "number": 22,
+            "title": "Disneyland"
+          },
+          {
+            "number": 23,
+            "title": "Tableau Vivant"
+          },
+          {
+            "number": 24,
+            "title": "Baby on Board"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/6/61/Modern_Family_Season_4.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Bringing Up Baby"
+          },
+          {
+            "number": 2,
+            "title": "Schooled"
+          },
+          {
+            "number": 3,
+            "title": "Snip"
+          },
+          {
+            "number": 4,
+            "title": "The Butler's Escape"
+          },
+          {
+            "number": 5,
+            "title": "Open House of Horrors"
+          },
+          {
+            "number": 6,
+            "title": "Yard Sale"
+          },
+          {
+            "number": 7,
+            "title": "Arrested"
+          },
+          {
+            "number": 8,
+            "title": "Mistery Date"
+          },
+          {
+            "number": 9,
+            "title": "When a Tree Falls"
+          },
+          {
+            "number": 10,
+            "title": "Diamond in the Rough"
+          },
+          {
+            "number": 11,
+            "title": "New Year's Eve"
+          },
+          {
+            "number": 12,
+            "title": "Party Crasher"
+          },
+          {
+            "number": 13,
+            "title": "Fulgencio"
+          },
+          {
+            "number": 14,
+            "title": "A Slight at the Opera"
+          },
+          {
+            "number": 15,
+            "title": "Heart Broken"
+          },
+          {
+            "number": 16,
+            "title": "Bad Hair Day"
+          },
+          {
+            "number": 17,
+            "title": "Best Men"
+          },
+          {
+            "number": 18,
+            "title": "The Wow Factor"
+          },
+          {
+            "number": 19,
+            "title": "The Future Dunphys"
+          },
+          {
+            "number": 20,
+            "title": "Flip Flop"
+          },
+          {
+            "number": 21,
+            "title": "Career Day"
+          },
+          {
+            "number": 22,
+            "title": "My Hero"
+          },
+          {
+            "number": 23,
+            "title": "Games People Play"
+          },
+          {
+            "number": 24,
+            "title": "Goodnight Gracie"
+          }
+        ]
+      }
+    ]
   }
 }

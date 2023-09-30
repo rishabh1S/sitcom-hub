@@ -8,8 +8,8 @@ const Home: React.FC = () => {
   const sitcomKeys = Object.keys(sitcomData) as Sitcom[];
 
   return (
-  <div className="flex items-center justify-center">
-      <div className="max-w-5xl w-full p-4 space-y-4 shadow-lg rounded-lg">
+  <main className="relative isolate overflow-hidden flex items-center justify-center">
+    <div className="max-w-5xl w-full p-4 space-y-4 shadow-lg rounded-lg">
         <h1 className="text-3xl font-bold mb-8">Choose a Sitcom</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {sitcomKeys.map((sitcomKey) => {
@@ -30,7 +30,7 @@ const Home: React.FC = () => {
           })}
         </div>
       </div>
-    </div>
+  </main>
   );
 };
 
