@@ -3082,7 +3082,7 @@
             "title": "Backstage Pass"
           },
           {
-            "number":25,
+            "number": 25,
             "title": "The Promise Ring"
           }
         ]
@@ -4025,6 +4025,664 @@
           {
             "number": 24,
             "title": "Goodnight Gracie"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/d/d7/Modern_Family_Season_5.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Suddenly, Last Summer"
+          },
+          {
+            "number": 2,
+            "title": "First Days"
+          },
+          {
+            "number": 3,
+            "title": "Larry's Wife"
+          },
+          {
+            "number": 4,
+            "title": "Farm Strong"
+          },
+          {
+            "number": 5,
+            "title": "The Late Show"
+          },
+          {
+            "number": 6,
+            "title": "The Help"
+          },
+          {
+            "number": 7,
+            "title": "A Fair to Remember"
+          },
+          {
+            "number": 8,
+            "title": "ClosetCon '13"
+          },
+          {
+            "number": 9,
+            "title": "The Big Game"
+          },
+          {
+            "number": 10,
+            "title": "The Old Man & the Tree"
+          },
+          {
+            "number": 11,
+            "title": "And One to Grow On"
+          },
+          {
+            "number": 12,
+            "title": "Under Pressure"
+          },
+          {
+            "number": 13,
+            "title": "Three Dinners"
+          },
+          {
+            "number": 14,
+            "title": "iSpy"
+          },
+          {
+            "number": 15,
+            "title": "The Feud"
+          },
+          {
+            "number": 16,
+            "title": "Spring-a-Ding-Fling"
+          },
+          {
+            "number": 17,
+            "title": "Other People's Children"
+          },
+          {
+            "number": 18,
+            "title": "Las Vegas"
+          },
+          {
+            "number": 19,
+            "title": "A Hard Jay's Night"
+          },
+          {
+            "number": 20,
+            "title": "Australia"
+          },
+          {
+            "number": 21,
+            "title": "Sleeper"
+          },
+          {
+            "number": 22,
+            "title": "Message Received"
+          },
+          {
+            "number": 23,
+            "title": "The Wedding (Part 1)"
+          },
+          {
+            "number": 24,
+            "title": "The Wedding (Part 2)"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Modern_Family_season_6_DVD.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "The Long Honeymoon"
+          },
+          {
+            "number": 2,
+            "title": "Do Not Push"
+          },
+          {
+            "number": 3,
+            "title": "The Cold"
+          },
+          {
+            "number": 4,
+            "title": "Marco Polo"
+          },
+          {
+            "number": 5,
+            "title": "Won't You Be Our Neighbor"
+          },
+          {
+            "number": 6,
+            "title": "Halloween 3: AwesomeLand"
+          },
+          {
+            "number": 7,
+            "title": "Queer Eyes, Full Hearts"
+          },
+          {
+            "number": 8,
+            "title": "Three Turkeys"
+          },
+          {
+            "number": 9,
+            "title": "Strangers in the Night"
+          },
+          {
+            "number": 10,
+            "title": "Haley's 21st Birthday"
+          },
+          {
+            "number": 11,
+            "title": "The Day We Almost Died"
+          },
+          {
+            "number": 12,
+            "title": "The Big Guns"
+          },
+          {
+            "number": 13,
+            "title": "Rash Decisions"
+          },
+          {
+            "number": 14,
+            "title": "Valentine's Day 4: Twisted Sister"
+          },
+          {
+            "number": 15,
+            "title": "Fight or Flight"
+          },
+          {
+            "number": 16,
+            "title": "Connection Lost"
+          },
+          {
+            "number": 17,
+            "title": "Closet? You'll Love It!"
+          },
+          {
+            "number": 18,
+            "title": "Spring Break"
+          },
+          {
+            "number": 19,
+            "title": "Grill, Interrupted"
+          },
+          {
+            "number": 20,
+            "title": "Knock 'Em Down"
+          },
+          {
+            "number": 21,
+            "title": "Integrity"
+          },
+          {
+            "number": 22,
+            "title": "Patriot Games"
+          },
+          {
+            "number": 23,
+            "title": "Crying Out Loud"
+          },
+          {
+            "number": 24,
+            "title": "American Skyper"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/1/15/Modern_Family_season_7_dvd.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Summer Lovin'"
+          },
+          {
+            "number": 2,
+            "title": "The Day Alex Left for College"
+          },
+          {
+            "number": 3,
+            "title": "The Closet Case"
+          },
+          {
+            "number": 4,
+            "title": "She Crazy"
+          },
+          {
+            "number": 5,
+            "title": "The Verdict"
+          },
+          {
+            "number": 6,
+            "title": "The More You Ignore Me"
+          },
+          {
+            "number": 7,
+            "title": "Phil's Sexy, Sexy House"
+          },
+          {
+            "number": 8,
+            "title": "Clean Out Your Junk Drawer"
+          },
+          {
+            "number": 9,
+            "title": "White Christmas"
+          },
+          {
+            "number": 10,
+            "title": "Playdates"
+          },
+          {
+            "number": 11,
+            "title": "Spread Your Wings"
+          },
+          {
+            "number": 12,
+            "title": "Clean for a Day"
+          },
+          {
+            "number": 13,
+            "title": "Thunk in the Trunk"
+          },
+          {
+            "number": 14,
+            "title": "The Storm"
+          },
+          {
+            "number": 15,
+            "title": "I Don't Know How She Does It"
+          },
+          {
+            "number": 16,
+            "title": "The Cover-Up"
+          },
+          {
+            "number": 17,
+            "title": "Express Yourself"
+          },
+          {
+            "number": 18,
+            "title": "The Party"
+          },
+          {
+            "number": 19,
+            "title": "Man Shouldn't Lie"
+          },
+          {
+            "number": 20,
+            "title": "Promposal"
+          },
+          {
+            "number": 21,
+            "title": "Crazy Train"
+          },
+          {
+            "number": 22,
+            "title": "Double Click"
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/8/86/Modern_Family_S8_DVD.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "A Tale of Three Cities"
+          },
+          {
+            "number": 2,
+            "title": "A Stereotypical Day"
+          },
+          {
+            "number": 3,
+            "title": "Blindsided"
+          },
+          {
+            "number": 4,
+            "title": "Weathering Heights"
+          },
+          {
+            "number": 5,
+            "title": "Halloween 4: The Revenge of Rod Skyhook"
+          },
+          {
+            "number": 6,
+            "title": "Grab It"
+          },
+          {
+            "number": 7,
+            "title": "Thanksgiving Jamboree"
+          },
+          {
+            "number": 8,
+            "title": "The Alliance"
+          },
+          {
+            "number": 9,
+            "title": "Snow Ball"
+          },
+          {
+            "number": 10,
+            "title": "Ringmaster Keifth"
+          },
+          {
+            "number": 11,
+            "title": "Sarge & Pea"
+          },
+          {
+            "number": 12,
+            "title": "Do You Believe in Magic?"
+          },
+          {
+            "number": 13,
+            "title": "Do It Yourself"
+          },
+          {
+            "number": 14,
+            "title": "Heavy is the Head"
+          },
+          {
+            "number": 15,
+            "title": "Finding Fizbo"
+          },
+          {
+            "number": 16,
+            "title": "Basketball"
+          },
+          {
+            "number": 17,
+            "title": "Pig Moon Rising"
+          },
+          {
+            "number": 18,
+            "title": "Five Minutes"
+          },
+          {
+            "number": 19,
+            "title": "Frank's Wedding"
+          },
+          {
+            "number": 20,
+            "title": "All Things Being Equal"
+          },
+          {
+            "number": 21,
+            "title": "Alone Time"
+          },
+          {
+            "number": 22,
+            "title": "The Graduates"
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/a/a1/Modern_Family_season_9_DVD.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Lake Life"
+          },
+          {
+            "number": 2,
+            "title": "The Long Goodbye"
+          },
+          {
+            "number": 3,
+            "title": "Catch of the Day"
+          },
+          {
+            "number": 4,
+            "title": "Sex, Lies & Kickball"
+          },
+          {
+            "number": 5,
+            "title": "It's the Great Pumpkin, Phil Dunphy"
+          },
+          {
+            "number": 6,
+            "title": "Ten Years Later"
+          },
+          {
+            "number": 7,
+            "title": "Winner Winner Turkey Dinner"
+          },
+          {
+            "number": 8,
+            "title": "Brushes with Celebrity"
+          },
+          {
+            "number": 9,
+            "title": "Tough Love"
+          },
+          {
+            "number": 10,
+            "title": "No Small Feet"
+          },
+          {
+            "number": 11,
+            "title": "He Said, She Shed"
+          },
+          {
+            "number": 12,
+            "title": "Dear Beloved Family"
+          },
+          {
+            "number": 13,
+            "title": "In Your Head"
+          },
+          {
+            "number": 14,
+            "title": "Written in the Stars"
+          },
+          {
+            "number": 15,
+            "title": "Spanks for the Memories"
+          },
+          {
+            "number": 16,
+            "title": "Wine Weekend"
+          },
+          {
+            "number": 17,
+            "title": "Royal Visit"
+          },
+          {
+            "number": 18,
+            "title": "Daddy Issues"
+          },
+          {
+            "number": 19,
+            "title": "CHiPs and Salsa"
+          },
+          {
+            "number": 20,
+            "title": "Mother!"
+          },
+          {
+            "number": 21,
+            "title": "The Escape"
+          },
+          {
+            "number": 22,
+            "title": "Clash of Swords"
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/b/b6/Modern_Family_season_10_poster.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "I Love a Parade"
+          },
+          {
+            "number": 2,
+            "title": "Kiss and Tell"
+          },
+          {
+            "number": 3,
+            "title": "A Sketchy Area"
+          },
+          {
+            "number": 4,
+            "title": "Torn Between Two Lovers"
+          },
+          {
+            "number": 5,
+            "title": "Good Grief"
+          },
+          {
+            "number": 6,
+            "title": "On the Same Paige"
+          },
+          {
+            "number": 7,
+            "title": "Did the Chicken Cross the Road?"
+          },
+          {
+            "number": 8,
+            "title": "Kids These Days"
+          },
+          {
+            "number": 9,
+            "title": "Putting Down Roots"
+          },
+          {
+            "number": 10,
+            "title": "Stuck in a Moment"
+          },
+          {
+            "number": 11,
+            "title": "A Moving Day"
+          },
+          {
+            "number": 12,
+            "title": "Blasts from the Past"
+          },
+          {
+            "number": 13,
+            "title": "Whanex?"
+          },
+          {
+            "number": 14,
+            "title": "We Need to Talk About Lily"
+          },
+          {
+            "number": 15,
+            "title": "SuperShowerBabyBowl"
+          },
+          {
+            "number": 16,
+            "title": "Red Alert"
+          },
+          {
+            "number": 17,
+            "title": "The Wild"
+          },
+          {
+            "number": 18,
+            "title": "Stand By Your Man"
+          },
+          {
+            "number": 19,
+            "title": "Yes-Woman"
+          },
+          {
+            "number": 20,
+            "title": "Can't Elope"
+          },
+          {
+            "number": 21,
+            "title": "Commencement"
+          },
+          {
+            "number": 22,
+            "title": "A Year of Birthdays"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/a/a0/Modern_Family_season_11_poster.jpg",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "New Kids On The Block"
+          },
+          {
+            "number": 2,
+            "title": "Snapped"
+          },
+          {
+            "number": 3,
+            "title": "Perfect Pairs"
+          },
+          {
+            "number": 4,
+            "title": "Pool Party"
+          },
+          {
+            "number": 5,
+            "title": "The Last Halloween"
+          },
+          {
+            "number": 6,
+            "title": "A Game of Chicken"
+          },
+          {
+            "number": 7,
+            "title": "The Last Thanksgiving"
+          },
+          {
+            "number": 8,
+            "title": "Tree's A Crowd"
+          },
+          {
+            "number": 9,
+            "title": "The Last Christmas"
+          },
+          {
+            "number": 10,
+            "title": "The Prescott"
+          },
+          {
+            "number": 11,
+            "title": "Legacy"
+          },
+          {
+            "number": 12,
+            "title": "Dead On A Rival"
+          },
+          {
+            "number": 13,
+            "title": "Paris"
+          },
+          {
+            "number": 14,
+            "title": "Spuds"
+          },
+          {
+            "number": 15,
+            "title": "Baby Steps"
+          },
+          {
+            "number": 16,
+            "title": "I'm Going to Miss This"
+          },
+          {
+            "number": 17,
+            "title": "Finale Part 1"
+          },
+          {
+            "number": 18,
+            "title": "Finale Part 2"
           }
         ]
       }
